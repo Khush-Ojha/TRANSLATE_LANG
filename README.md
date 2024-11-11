@@ -41,7 +41,7 @@ Contributions are welcome. Fork the repository and submit pull requests for impr
 ## Known Bugs
 Limited language support for rare languages
 Occasional delays in audio playback
-Googletrans may encounter errors due to external API changes
+Googletrans may encounter errors due to external API changes.
 
 
 ## FAQ
