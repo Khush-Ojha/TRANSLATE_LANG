@@ -57,5 +57,7 @@ A: This project requires an internet connection to access Google’s APIs for tr
 Q: What languages are supported?
 A: The system supports commonly used languages, though support may vary based on the Google Cloud API capabilities.
 
-License
+## License
 This project is licensed under the MIT License. See LICENSE for details.
+
+
