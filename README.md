@@ -19,12 +19,6 @@ Libraries:
           
           
 ## Installation & Usage
-### Clone Repository
-
-git clone https://github.com/your-username/speech-translation-system.git
-cd speech-translation-system
-
-
 ### Install Dependencies
 pip install -r requirements.txt
 
